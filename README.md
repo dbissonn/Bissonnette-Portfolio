@@ -1,10 +1,10 @@
 # Bissonnette-Portfolio
 
-MSPPM Candidate at Heinz College, Carnegie Mellon University – Developing GIS content for advanced GIS course. Interested in public health and environment application of GIS.
+MSPPM Candidate at Heinz College, Carnegie Mellon University – Developing GIS content for advanced GIS course. Interested in public health and environment applications of GIS.
 
 # About me
 
-I find Geographic Information Systems as one of the most compelling tools for communicating and analyzing data. From experience, GIS platforms have enabled me to persuasively present marine ecology, climate change research, and food security data for internal and external uses. In each case, it has helped contextualize broader research themes to a place or region.
+I believe Geographic Information Systems are some of the most compelling tools for communicating and analyzing data. From experience, GIS platforms have enabled me to persuasively present marine ecology, climate change research, and food security data for internal and external uses. In each case, it has helped contextualize broader research themes to a place or region.
 
 # What I hope to learn
 
