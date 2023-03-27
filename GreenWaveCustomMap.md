@@ -1,7 +1,3 @@
 # GreenWave Custom Map
 
-<a href="https://dbissonn.github.io/Bissonnette-Portfolio](https://github.com/dbissonn/Bissonnette-Portfolio/blob/bb1441b0325a89c570d419d3400a21faeefe71b0/greenwavemap.json">GreenWave Customized Map</a>
-
-<a href="/Bissonnette-Portfolio/master/greenwavemap.json">GreenWave Custom Map</a>
-
-<a href="/Bissonnette-Portfolio/greenwavemap.json">GreenWave Custom Map</a>
+[GreenWave Map JSON]([https://github.com/dbissonn/Bissonnette-Portfolio/blob/dbda99df79464d1f540b3fabf76f6c0fcc432a07/GreenWaveCustomMap.md](https://github.com/dbissonn/Bissonnette-Portfolio/blob/633d6849c36565166298e8363aed54b1d574d858/greenwavemap.json)
