@@ -12,4 +12,4 @@ Owing most of my GIS knowledge to professional experience, I'm hoping to broaden
 
 # Portfolio:
 
-[GreenWave Map](https://github.com/dbissonn/Bissonnette-Portfolio/blob/54ec831e28b4ef298a688c4632372010b0d6bcd8/greenwavemap.json)
+[GreenWave Map](https://github.com/dbissonn/Bissonnette-Portfolio/blob/dbda99df79464d1f540b3fabf76f6c0fcc432a07/GreenWaveCustomMap.md)
