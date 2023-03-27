@@ -12,6 +12,3 @@ Owing most of my GIS knowledge to professional experience, I'm hoping to broaden
 
 # Portfolio:
 
-<a href="https://dbissonn.github.io/Bissonnette-Portfolio/GreenWaveCustomMap.md">GreenWave Custom Map</a>
-
-        
