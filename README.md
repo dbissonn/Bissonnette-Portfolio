@@ -13,5 +13,8 @@ Owing most of my GIS knowledge to professional experience, I'm hoping to broaden
 # Portfolio:
 
 [Summer Beerfest Pittsburgh](https://github.com/dbissonn/Bissonnette-Portfolio/blob/master/Summerfest2023DB.md)
+
 [GreenWave Map](https://github.com/dbissonn/Bissonnette-Portfolio/blob/dbda99df79464d1f540b3fabf76f6c0fcc432a07/GreenWaveCustomMap.md)
+
 [Advanced GIS Final Project: Health Implications of the NC Swine Industry](https://github.com/dbissonn/Bissonnette-Portfolio/blob/master/Advanced%20GIS%20Final%20Project.md))
+
