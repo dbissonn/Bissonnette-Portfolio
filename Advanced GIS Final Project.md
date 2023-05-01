@@ -1,1 +1,3 @@
 ## [Health Implications of NC Swine Industry](https://arcg.is/0v0GHb0)
+
+As a part of my Advanced GIS class, I researched the health impact of the North Carolina swine industry on surrounding communities. To do so, I gathered county level demographic, health outcome, and swine production data for geospatial analysis. Due to limitations in data resolution and analysis, general linear regression was conducted; however, in future work for this, I may consider gaining access to higher resolution data or using dasymmetric analysis to programmatically distribute data at a lower level than the county. For now, this is a sample of some preliminary analysis I was able to complete, and intend to work on more.
